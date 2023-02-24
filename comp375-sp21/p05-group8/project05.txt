@@ -1,0 +1,47 @@
+COMP 375 @ USD
+Project 5: Internet Jukebox
+
+Update this file so that it contains the following info.
+Submissions where this file has not been completed will NOT be accepted (i.e.
+will receive a failing grade).
+
+1. Partner 1's FULL Name: Nicolas de la Fuente
+   Partner 1's USD Email Address: ndelafuente@sandiego.edu
+   Partner 2's FULL Name: Christian Gideon
+   Partner 2's USD Email Address: christiangideon@sandiego.edu
+
+2. A typed copy of USD's academic integrity pledge, followed by each partners'
+   typed initials (as a way of "signing the pledge.").
+
+   I pledge to demonstrate personal and academic integrity in all matters with
+   my fellow students, the faculty, and the administration here at USD. I
+   promise to be honest and accountable for my actions; and to uphold the
+   statutes of scholastic honesty to better myself and those around me.
+
+   N.E.D. and C.R.G.
+
+3. The estimated number of hours spent working on the project.
+   Break this down into three categories:
+		- Time spent partner 1 spent working alone: 30 mins
+		- Time spent partner 2 spent working alone: 1 hour
+		- Time spent working together: 15-20 hours
+
+4. A list of missing features and/or known bugs.
+		- If a command other than play is sent by the client while a song is
+		  playing, the client begins interpreting the song as a text response.
+		- The client does not know when a song ends naturally
+
+5. Did you need to spend a project buck on this project to get a one week
+   deadline extension? (y/n)
+
+   yes
+
+6. Any feedback you with to give me relating the project (e.g. Was it
+   interesting? How could it be improved?)
+
+	The project was very interesting! A little more guidance on the protocol
+	might have helped, but I do see the benefit in seeing exactly why headers
+	are necessary. I liked the aspect of having to create both the client and
+	the server. Additionally, I did not appreciate being rickrolled, over and
+	over again as we were trying to debug (I lie, I actually started to enjoy
+	it). Also I loved the song choices, you chose an interesting variety :)

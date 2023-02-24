@@ -1,0 +1,180 @@
+
+Welcome to Employr, the world's best employee database app!
+
+Initializing database from file: 'test_db.txt'
+
+Employee DB Menu:
+-------------------------------
+  (1) Print the Database.
+  (2) Lookup by ID.
+  (3) Lookup by Last Name.
+  (4) Add an Employee.
+  (5) Quit.
+-------------------------------
+Enter your choice: 
+NAME                                                SALARY    ID
+----------------------------------------------------------------------
+Kyoko                     Benoit                     72000    165417
+Judi                      Wansley                    69000    279265
+Jacinda                   Ravencraft                 91000    471163
+Pamula                    Lanning                    84000    485913
+Gale                      Wester                     72000    499959
+Connie                    Stiltner                   71000    517931
+Shea                      Bearden                    82000    553997
+Maisha                    Elmore                     99000    633976
+Precious                  Richert                    87000    684382
+Tisha                     Jaquez                     94000    702234
+Jamika                    Pigford                   114000    779387
+Synthia                   Piro                       82000    786785
+Don                       Kinard                     98000    935460
+Lana                      Brammer                   109000    971117
+----------------------------------------------------------------------
+Number of employees: (14)
+
+Employee DB Menu:
+-------------------------------
+  (1) Print the Database.
+  (2) Lookup by ID.
+  (3) Lookup by Last Name.
+  (4) Add an Employee.
+  (5) Quit.
+-------------------------------
+Enter your choice: Invalid option (10). Valid values are 1 through 5
+
+Employee DB Menu:
+-------------------------------
+  (1) Print the Database.
+  (2) Lookup by ID.
+  (3) Lookup by Last Name.
+  (4) Add an Employee.
+  (5) Quit.
+-------------------------------
+Enter your choice: Enter a 6-digit employee id: Employee with id 461769 not found in DB
+
+Employee DB Menu:
+-------------------------------
+  (1) Print the Database.
+  (2) Lookup by ID.
+  (3) Lookup by Last Name.
+  (4) Add an Employee.
+  (5) Quit.
+-------------------------------
+Enter your choice: Enter a 6-digit employee id: 
+NAME                                                SALARY    ID
+----------------------------------------------------------------------
+Shea                      Bearden                    82000    553997
+
+Employee DB Menu:
+-------------------------------
+  (1) Print the Database.
+  (2) Lookup by ID.
+  (3) Lookup by Last Name.
+  (4) Add an Employee.
+  (5) Quit.
+-------------------------------
+Enter your choice: Enter the employee's last name (no extra spaces): 
+NAME                                                SALARY    ID
+----------------------------------------------------------------------
+Pamula                    Lanning                    84000    485913
+
+Employee DB Menu:
+-------------------------------
+  (1) Print the Database.
+  (2) Lookup by ID.
+  (3) Lookup by Last Name.
+  (4) Add an Employee.
+  (5) Quit.
+-------------------------------
+Enter your choice: Enter the first name of the employee: Enter the last name of the employee: Enter a 6-digit employee id num: Enter the employee's salary (30000 to 150000): The following employee will be added to the database:
+	Name: Sat Garcia
+	ID: 501337
+	Salary: $150000
+Enter '1' to confirm or '0' to cancel the add: New employee will be added to the database.
+
+Employee DB Menu:
+-------------------------------
+  (1) Print the Database.
+  (2) Lookup by ID.
+  (3) Lookup by Last Name.
+  (4) Add an Employee.
+  (5) Quit.
+-------------------------------
+Enter your choice: 
+NAME                                                SALARY    ID
+----------------------------------------------------------------------
+Kyoko                     Benoit                     72000    165417
+Judi                      Wansley                    69000    279265
+Jacinda                   Ravencraft                 91000    471163
+Pamula                    Lanning                    84000    485913
+Gale                      Wester                     72000    499959
+Sat                       Garcia                    150000    501337
+Connie                    Stiltner                   71000    517931
+Shea                      Bearden                    82000    553997
+Maisha                    Elmore                     99000    633976
+Precious                  Richert                    87000    684382
+Tisha                     Jaquez                     94000    702234
+Jamika                    Pigford                   114000    779387
+Synthia                   Piro                       82000    786785
+Don                       Kinard                     98000    935460
+Lana                      Brammer                   109000    971117
+----------------------------------------------------------------------
+Number of employees: (15)
+
+Employee DB Menu:
+-------------------------------
+  (1) Print the Database.
+  (2) Lookup by ID.
+  (3) Lookup by Last Name.
+  (4) Add an Employee.
+  (5) Quit.
+-------------------------------
+Enter your choice: Enter the first name of the employee: Enter the last name of the employee: Enter a 6-digit employee id num: Invalid ID! Try again.
+Enter a 6-digit employee id num: Invalid ID! Try again.
+Enter a 6-digit employee id num: Enter the employee's salary (30000 to 150000): Invalid Salary! Try again.
+Enter the employee's salary (30000 to 150000): Invalid Salary! Try again.
+Enter the employee's salary (30000 to 150000): The following employee will be added to the database:
+	Name: Oninrutas Aicrag
+	ID: 222222
+	Salary: $110000
+Enter '1' to confirm or '0' to cancel the add: Employee add cancelled!
+
+Employee DB Menu:
+-------------------------------
+  (1) Print the Database.
+  (2) Lookup by ID.
+  (3) Lookup by Last Name.
+  (4) Add an Employee.
+  (5) Quit.
+-------------------------------
+Enter your choice: 
+NAME                                                SALARY    ID
+----------------------------------------------------------------------
+Kyoko                     Benoit                     72000    165417
+Judi                      Wansley                    69000    279265
+Jacinda                   Ravencraft                 91000    471163
+Pamula                    Lanning                    84000    485913
+Gale                      Wester                     72000    499959
+Sat                       Garcia                    150000    501337
+Connie                    Stiltner                   71000    517931
+Shea                      Bearden                    82000    553997
+Maisha                    Elmore                     99000    633976
+Precious                  Richert                    87000    684382
+Tisha                     Jaquez                     94000    702234
+Jamika                    Pigford                   114000    779387
+Synthia                   Piro                       82000    786785
+Don                       Kinard                     98000    935460
+Lana                      Brammer                   109000    971117
+----------------------------------------------------------------------
+Number of employees: (15)
+
+Employee DB Menu:
+-------------------------------
+  (1) Print the Database.
+  (2) Lookup by ID.
+  (3) Lookup by Last Name.
+  (4) Add an Employee.
+  (5) Quit.
+-------------------------------
+Enter your choice: 
+Thank you for using Employr. Be sure to rate us in the COMP280 App Store!
+

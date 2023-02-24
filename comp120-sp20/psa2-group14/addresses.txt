@@ -1,0 +1,10 @@
+John Smith
+100 Main Street
+Savannah
+GA
+31416
+Mary Smith
+123 Fish Street
+Detroit
+MI
+48204

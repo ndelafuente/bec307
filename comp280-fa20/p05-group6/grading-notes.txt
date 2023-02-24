@@ -1,0 +1,5 @@
+Grade: FAIL (significant revisions required)
+
+Notes:
+- FAIL: Many valgrind memory errors reported (invalid reads/writes)
+- FAIL: Valgrind reports memory leaks

@@ -1,0 +1,7 @@
+6
+Tyler 21 4
+Freya 18 1
+Heather 22 4
+Peter 19.7 2
+Austin 20  3
+Martha 22  3

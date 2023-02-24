@@ -1,0 +1,27 @@
+COMP 280 - Project 02 (Simplified DES Encryption)
+
+1. Partner 1: Nicolas de la Fuente (ndelafuente@sandiego.edu)
+   Partner 2: Phuong Mai (pmai@sandiego.edu)
+
+2. Academic Integrity Pledge:
+
+   I pledge to demonstrate personal and academic integrity in all matters with
+   my fellow students, the faculty, and the administration here at USD. I
+   promise to be honest and accountable for my actions; and to uphold the
+   statutes of scholastic honesty to better myself and those around me.
+
+   Signed,
+   N.D. and P.M.
+
+3. The estimated number of hours spent working on the project
+		- Time spent partner 1 spent working alone: ~3 (creating the print_bits function)
+		- Time spent partner 2 spent working alone: ~0
+		- Time spent working together: ~18
+
+4. A list of missing features and/or known bugs: null
+
+5. Feedback:
+      - We had trouble understanding how to use fwrite (what to use for size and nmemb)
+      - Handling the padding was difficult to understand perhaps a demonstration in sdes-encryption
+         to show where it is added 
+      - You are our favorite professor

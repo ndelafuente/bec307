@@ -1,0 +1,23 @@
+Line 2: x123 = 19278.000000
+Line 3: y = 21.500000
+Line 4: z = 20176.700000
+Line 5: salary = 860.000000
+Line 6: time = -18764.330000
+Line 7: x123 = 19293.000000
+Line 8: time = 1390.870000
+Line 11: Invalid statement
+Line 12: Invalid statement
+Line 13: Invalid statement
+Line 14: Invalid statement
+Line 15: Invalid statement
+Line 16: Invalid statement
+Line 17: Invalid statement
+Line 18: Invalid statement
+Line 19: Invalid statement
+Line 20: Invalid statement
+Line 21: Invalid statement
+Line 22: Invalid statement
+Line 23: Invalid statement
+Line 24: Invalid statement
+Line 27: val = 20720.660000
+Line 28: val2 = 20734.060000

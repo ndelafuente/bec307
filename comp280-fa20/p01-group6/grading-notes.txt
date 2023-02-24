@@ -1,0 +1,6 @@
+Grade: PASS
+
+Notes:
+- INFO: convert_str_to_int is unnecessary. Use scanf
+- INFO: Very nice job with commenting!
+- INFO: Enjoyed the "theme" of the program but in the future, please don't change the interface of given functions as it makes my automated testing scripts die and go to hell.

@@ -1,0 +1,16 @@
+Test Case FAILED:
+	Function: get_menu_selection
+	Test Description: Basic UI Check
+	Error: Did not ask for the correct number of user inputs (1).
+Test Case FAILED:
+	Function: lookup_by_id
+	Test Description: Basic UI Check
+	Error: Did not ask for the correct number of user inputs (1).
+Test Case FAILED:
+	Function: lookup_by_last_name
+	Test Description: Basic UI Check
+	Error: Did not ask for the correct number of user inputs (1).
+Test Case FAILED:
+	Function: add_employee
+	Test Description: Basic UI Check
+	Error: Did not ask for the correct number of user inputs (5).

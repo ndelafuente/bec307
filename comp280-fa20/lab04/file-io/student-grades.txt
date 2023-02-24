@@ -1,0 +1,15 @@
+Ada Lovelace 10.0, 7.0, 9.0
+Anita Borg 8.0, 7.5, 7.0
+Alonzo Church 5.2, 7.0, 8.0
+Grace Hopper 10.0, 10.0, 10.0
+Alan Turing 9.0, 4.0, 8.25
+Frances Allen 7.25, 8.25, 10.0
+Ken Thompson 0.0, 7.5, 9.25
+Kay McNulty 8.0, 8.0, 8.0
+Leslie Lamport 6.5, 6.5, 5.5
+Shafi Goldwasser 10.0, 10.0, 10.0
+Alan Kay 8.0, 7.25, 7.5
+Maria Klawe 10.0, 9.0, 9.5
+Tony Hoare 10.0, 9.5, 9.5
+Barbara Liskov 4.5, 0.0, 8.25
+Edsger Dijkstra 0.0, 1.5, 2.0

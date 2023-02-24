@@ -1,0 +1,5 @@
+Grading:
+Circles: The user should specify  the circles with mouse clicks, not mouse presses.: -5
+Total Deductions: -5
+Final Score: 95
+Comments: 

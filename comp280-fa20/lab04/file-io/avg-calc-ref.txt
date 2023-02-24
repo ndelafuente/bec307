@@ -1,0 +1,15 @@
+Ada Lovelace 8.67
+Anita Borg 7.50
+Alonzo Church 6.73
+Grace Hopper 10.00
+Alan Turing 7.08
+Frances Allen 8.50
+Ken Thompson 5.58
+Kay McNulty 8.00
+Leslie Lamport 6.17
+Shafi Goldwasser 10.00
+Alan Kay 7.58
+Maria Klawe 9.50
+Tony Hoare 9.67
+Barbara Liskov 4.25
+Edsger Dijkstra 1.17

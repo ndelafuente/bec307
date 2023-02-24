@@ -1,0 +1,28 @@
+    # Test correct assignment statements
+x123 = 19278
+y = 21.5
+z = 920.2 + x123 - y
+    salary = 873 - 13 
+time = -123.33 + salary - 123 + 23 + 0 + -123 - x123
+x123 = x123 + 15  # reassign the value of x123
+time = x123 + z - y - x123 + time
+
+    # Now test some invalid statements
+a = 1474 +  # invalid expression
+820.34 - junk  # junk has not been defined
+b52 = 2884 - -1293 + 399 t 266  # t is not an operator
+ccc = 23.8 - 203.3 +   # invalid expression
+dddd = + 123.2 - 23.2  # invalid expression
+xyz = 2884.2 + + 293 - 23.2 283.3  # invalid expression
+t = 34.8    273 - 12   # invalid expression
+x =       # no expression
+y == 4   # invalid assignment operator
+x = salary + time = 15   # two assignment operators
+x$y34 = 17    # invalid variable name
+y^54 = 345   # invalid variable name
+19 = 19   # invalid variable name
+1salary = time   # invalid variable name
+
+      # Now test a couple more correct statements
+   val = time    - salary   + 13.09 + z
+   val2 = val + 13.4

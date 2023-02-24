@@ -1,0 +1,7 @@
+Grading:
+Header missing your information: -2
+After reset, you reset the wraparound state of the model, but you don't reset the button in the view: -2
+Unit testing of snake model is not present, does not work, or is insufficient: -5
+Total Deductions: -9
+Final Score: 91
+Comments: 

@@ -1,0 +1,25 @@
+COMP 280 - Project 03 (Game of Life)
+
+1. Nicolas de la Fuente (ndelafuente@sandiego.edu)
+
+2. Academic Integrity Pledge:
+
+   I pledge to demonstrate personal and academic integrity in all matters with
+   my fellow students, the faculty, and the administration here at USD. I
+   promise to be honest and accountable for my actions; and to uphold the
+   statutes of scholastic honesty to better myself and those around me.
+
+   Signed,
+   N.D.
+
+3. The estimated number of hours spent working on the project: 15?
+
+4. A list of missing features and/or known bugs.
+      - Could not finish implementing rle_reader.c
+
+5. Any feedback you with to give me relating the project
+   Perhaps consider using RLE or plaintext formatting for the config files.
+   https://www.conwaylife.com/wiki/Run_Length_Encoded
+   https://www.conwaylife.com/wiki/Plaintext
+
+6. 1 COMP280 buck

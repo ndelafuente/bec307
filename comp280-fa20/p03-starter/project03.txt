@@ -1,0 +1,18 @@
+COMP 280 - Project 03 (Game of Life)
+
+1. Your FULL Name:
+   Your USD Email Address:
+
+2. A typed copy of USD's academic integrity pledge, followed by your
+   typed initials (as a way of "signing the pledge.").
+
+   The academic integrity pledge can be found on page 3 of
+   the document found here: https://www.sandiego.edu/conduct/documents/HonorCode.pdf
+   To be clear, it is the text that starts, "I pledge to demonstrate...".
+
+3. The estimated number of hours spent working on the project:
+
+4. A list of missing features and/or known bugs.
+
+5. Any feedback you with to give me relating the project (e.g. Was it
+   interesting? How could it be improved?)

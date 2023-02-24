@@ -1,0 +1,38 @@
+==57428== Memcheck, a memory error detector
+==57428== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==57428== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==57428== Command: ./torero-serve 7100 WWW
+==57428== Parent PID: 57413
+==57428== 
+==57428== 
+==57428== Process terminating with default action of signal 15 (SIGTERM)
+==57428==    at 0x56659DD: ??? (syscall-template.S:81)
+==57428==    by 0x40BDF0: acceptConnections(int) (torero-serve.cpp:208)
+==57428==    by 0x40BF06: main (torero-serve.cpp:97)
+==57428== 
+==57428== HEAP SUMMARY:
+==57428==     in use at exit: 57,600 bytes in 192 blocks
+==57428==   total heap usage: 907 allocs, 715 frees, 326,168 bytes allocated
+==57428== 
+==57428== 55,296 bytes in 96 blocks are possibly lost in loss record 2 of 2
+==57428==    at 0x4C2C089: calloc (vg_replace_malloc.c:762)
+==57428==    by 0x4012784: allocate_dtv (dl-tls.c:317)
+==57428==    by 0x4012784: _dl_allocate_tls (dl-tls.c:533)
+==57428==    by 0x565F87B: allocate_stack (allocatestack.c:539)
+==57428==    by 0x565F87B: pthread_create@@GLIBC_2.2.5 (pthread_create.c:447)
+==57428==    by 0x40E614: std::thread::_M_start_thread(std::unique_ptr<std::thread::_State, std::default_delete<std::thread::_State> >, void (*)()) (in /home/sat/private/comp375/sp21/grading/p02/group8/torero-serve)
+==57428==    by 0x40BD2C: thread<void (&)(BoundedBuffer&), std::reference_wrapper<BoundedBuffer> > (thread:130)
+==57428==    by 0x40BD2C: acceptConnections(int) (torero-serve.cpp:227)
+==57428==    by 0x40BF06: main (torero-serve.cpp:97)
+==57428== 
+==57428== LEAK SUMMARY:
+==57428==    definitely lost: 0 bytes in 0 blocks
+==57428==    indirectly lost: 0 bytes in 0 blocks
+==57428==      possibly lost: 55,296 bytes in 96 blocks
+==57428==    still reachable: 2,304 bytes in 96 blocks
+==57428==         suppressed: 0 bytes in 0 blocks
+==57428== Reachable blocks (those to which a pointer was found) are not shown.
+==57428== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==57428== 
+==57428== For lists of detected and suppressed errors, rerun with: -s
+==57428== ERROR SUMMARY: 1 errors from 1 contexts (suppressed: 0 from 0)
